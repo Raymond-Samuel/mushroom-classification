@@ -1,0 +1,5 @@
+Dataset URL:
+https://archive.ics.uci.edu/dataset/73/mushroom
+
+Deployment URL:
+https://huggingface.co/spaces/Raymond-Samuel/Milestone-2-Raymond-Samuel
